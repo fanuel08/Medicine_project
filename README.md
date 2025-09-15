@@ -8,7 +8,8 @@ This project provides a complete, end-to-end workflow for both patients and agen
 
 Click the image below to watch a full demonstration of the AfyaLink platform's core features, from agent registration and approval to patient case submission and management.
 
-Direct Link: https://youtu.be/kIpnzuCqoMk
+Direct Link: https://drive.google.com/file/d/1G7R3KJYFWIffXdDNuxXMu0Vw0XFBHJTS/view?usp=drive_link
+
 
 ✨ Core Features
 
