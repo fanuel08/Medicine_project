@@ -1,4 +1,4 @@
-AfyaLink: Health Triage & Case Management Platform
+AfyaLink: Health Triage & Case Management Platforms
 
 AfyaLink is a robust health triage and case management platform designed to bridge the gap between patients and community health agents via accessible technology. The platform facilitates the entire lifecycle of a health inquiry, from initial symptom reporting via USSD to agent assignment, follow-up, and payment processing.
 
